@@ -12,4 +12,25 @@ Alumni Sangam Arora (Argusoft).He was the CSE TOPPER(2021-2025)and Arshpreet sin
  Dr.Akshay Girdhan ( Head Dean academics) ,Prof.Harleen kaur Grewal ( CSE department), Dr.K.S Maan ( HOD IT department) they are gave a motivational speech to the students.
  After that , we visited our respective departments and were introduced to the facilities and mentoring system. 
 
-
+# Day-2 Induction programme & Tests and Seminars 
+## 9:30 to 10:30- English proficiency test 
+## 10:30 to 11:30- Math proficiency test 
+The tests was conducted in classrooms.
+## 11:30 to 1:00 we had a lunch break after the test 
+A seminar on the satya scholarship program was held in the auditorium, where elwe were guided about the benefits and application process.
+later, Mr.Arashdeep singh took a seminar on food and wellness, sharing useful tips for student health and lifestyle.
+Then the seminar about the causmic club and launch of induction activities.They shared the information about github app.
+ # Day-3 Expert Lectures & Club into
+  ## 9:30 to 11:30 
+  The lecture by Dr.Jaswinder singh incharge (APT)gave an expert lecture on spirituality and motivation and showed live experiments. He is a national awards and inspired us to be focused and positive in life.He was live showed the experiment about the mathematics and physics also. 
+  Then,
+  ## 11:00 to 1:00 
+  Dr. Priya Darshani Mam gave a session on Universal Human Values, interacted with students and gave solutions to real life challenges they shared.
+  At the end, seniors introduced us to the causmic club,where creative and leadership skills can be developed through various activities and events.
+  # Day -4 Learning & Exploration 
+   We attended a P2P C++ class taught by seniors Gurleen kaur and Jagdeep kaur. They explained C++ basics and helped us write code in Visual Studio.
+   Then, Prof. Balwinder Singh introduced the BEEE subject, its syllabus and book list.It was an intro session as books were not yet available.
+   We had a 1 hour lunch break, during which we explored the large and beautiful campus.
+   After lunch, Dr.Priya Darshani Mam gave another session on Human values, discussing mental stability, relationships and interacted with students again.
+   Finally,the causmic club department gave a full introduction about their year-round activities,how to join and the companies they collaborate with 
+  
