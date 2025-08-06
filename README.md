@@ -33,4 +33,17 @@ Then the seminar about the causmic club and launch of induction activities.They 
    We had a 1 hour lunch break, during which we explored the large and beautiful campus.
    After lunch, Dr.Priya Darshani Mam gave another session on Human values, discussing mental stability, relationships and interacted with students again.
    Finally,the causmic club department gave a full introduction about their year-round activities,how to join and the companies they collaborate with 
+   # Day-5 
+   ## 9:30 to 10:30 
+   we attended a chemistry lecture by prof.Mandeep kaur.She explained chemistry basics and syllabus.
+   ## 10:30 to 11:30 
+   Then,Prof.Nisha Ma'am introduced the English subject, she asked for the whole class to introduce itself.
+   ## 11:30 to 12:30 
+   Then,in the( ME Sem Hall) prof. Gagandeep kaur introduce the math syllabus.
+   # Day - 6
+   ## 9:00 to 11:30 
+    ID card formation of our class
+  ## 11:30 to 12:30 
+  we had a 1 hour lunch break , during which we explored the large and beautiful campus and a hostel .
   
+   
