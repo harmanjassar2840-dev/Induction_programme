@@ -45,5 +45,7 @@ Then the seminar about the causmic club and launch of induction activities.They 
     ID card formation of our class
   ## 11:30 to 12:30 
   we had a 1 hour lunch break , during which we explored the large and beautiful campus and a hostel .
-  
-   
+  ## 12:30 to 2:00 
+  s. Gurucharan singh Grewal was motivated us with their speech. He discuss with us the facilities of college.
+ ## 2:00 to 4:00 
+ Dr. Lakhvir singh khanna incharge of(CML) department.He discuss about the swayam app and the NPTEL courses with the students. He explained the benefits of this courses in the future.
