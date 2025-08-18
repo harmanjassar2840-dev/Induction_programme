@@ -49,3 +49,13 @@ Then the seminar about the causmic club and launch of induction activities.They 
   s. Gurucharan singh Grewal was motivated us with their speech. He discuss with us the facilities of college.
  ## 2:00 to 4:00 
  Dr. Lakhvir singh khanna incharge of(CML) department.He discuss about the swayam app and the NPTEL courses with the students. He explained the benefits of this courses in the future.
+# Day-07 
+## 9:30 to 10:30 its lecture by Dr. Amit kamra sir about the DMC which is Digital marketing centre in the auditorium 
+## 10:30 to 11:30 its lecture by Dr. Parminder singh.He discuss us with the dean student welfare in the auditorium.
+## 11:30 to 12:30 the lecture by Dr. Randhir singh about the exams. He discussed how to conduct exam in whole four years. What is the importance of attendance during the exams. 
+## 12:30 to 1:30 - Break 
+## 1:30 to 2:30 its our math lecture by prof. Rajbir kaur Mam. In the lecture its simply discuss the syllabus of math. 
+## 2:30 to 3:30 its our BEEE lecture by Prof. Balwinder Singh.  
+# Day-08
+## 9:00 to 10:30 it's chemistry lecture by Prof. Mandeep kaur. She discuss about the chemistry syllabus and some basic knowledge about the chemistry.
+## 10:30 to 12:00 it's english lecture by prof. Nisha. She explained about the communication skills and its different types.She discuss Whlole the English syllabus. 
